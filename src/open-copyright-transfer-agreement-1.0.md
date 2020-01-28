@@ -33,28 +33,38 @@ and social media, and reference or use parts of the
 Intellectual Property for future work.
 
 ## Signing
+### Intellectual Property
+* [List of Intellectual Property]
+
+Please indicate which party populated the Intellectual Property
+(“Intellectual Property”) area:
+
+[ ] Beneficiary  
+[ ] Author(s)
+
 ### Beneficiary
 If the beneficiary is an organization, the organization name (O) should
-be specified and the beneficiary name and signature shall refer to who 
+be specified, and the beneficiary name and signature shall refer to who 
 has the right to, and is acting on behalf of the organization.  
 The beneficiary should add their name (N), position (P) if they are
 acting on behalf of an organization. and signature (S)
 
 O: [Organization Name]  
 N: [Name]  
-P: [Position]
+P: [Position]  
 S: [Signature]  
 
 ### Authors
+If any author(s) are organizations, the organization name (O) should
+be specified, and the author name, email, and signature shall refer to
+who has the right to, and is acting on behalf of the organization.
 Each author should add their name (N), email address (E), and
 signature (S).  
 Append entries as required by the number of Authors.
 
+O: [Organization Name]  
 N: [Name]  
 E: [Email]  
 S: [Signature]
 
-Date: [YYYY-MM-DD]
-
-Intellectual Property:  
-* [List of Intellectual Property]
+Date: [yyyy-MM-DD]
