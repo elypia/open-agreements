@@ -1,8 +1,7 @@
 Open Copyright Transfer Agreement 1.0 (OCTA 1.0)
 
 This document contains the terms and conditions for the transfer of
-copyright from a or multiple copyright holders of intellectual property
-to another party.
+copyright from rightsholders of intellectual property to another party.
 
 1 - Definitions.
     "Intellectual Property" shall mean any kind of intellectual
