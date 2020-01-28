@@ -7,7 +7,7 @@ copyright from rightsholders of intellectual property to another party.
     "Intellectual Property" shall mean any kind of intellectual
     property; this could be in any form including but not limited to
     both physical and digital inventions, illustrations, designs,
-    documents, or other binary files.  
+    documents, or other binary files.
 
     "Author(s)" shall mean all present copyright holders prior to
     signing this document transferring copyright to another party.
@@ -44,10 +44,12 @@ Beneficiary
 If the beneficiary is an organization, the organization name (O) should
 be specified and the beneficiary name and signature shall refer to who
 has the right to, and is acting on behalf of the organization.
-The beneficiary should add their name (N) and signature (S).
+The beneficiary should add their name (N), position (P) if they are
+acting on behalf of an organization. and signature (S)
 
-O: [Organization Name]  
-N: [Name]  
+O: [Organization Name]
+N: [Name]
+P: [Position]
 S: [Signature]
 
 Authors
@@ -56,11 +58,11 @@ Each author should add their name (N), email address (E), and
 signature (S).
 Append entries as required by the number of Authors.
 
-N: [Name]  
-E: [Email]  
+N: [Name]
+E: [Email]
 S: [Signature]
 
 Date: [YYYY-MM-DD]
 
-Intellectual Property:  
+Intellectual Property:
 * [List of Intellectual Property]

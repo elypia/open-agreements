@@ -37,11 +37,13 @@ Intellectual Property for future work.
 If the beneficiary is an organization, the organization name (O) should
 be specified and the beneficiary name and signature shall refer to who 
 has the right to, and is acting on behalf of the organization.  
-The beneficiary should add their name (N) and signature (S).
+The beneficiary should add their name (N), position (P) if they are
+acting on behalf of an organization. and signature (S)
 
 O: [Organization Name]  
 N: [Name]  
-S: [Signature]
+P: [Position]
+S: [Signature]  
 
 ### Authors
 Each author should add their name (N), email address (E), and
