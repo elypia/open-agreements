@@ -36,7 +36,7 @@ documents for the community to use.**
 [matrix]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
-[registered-company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
+[registered company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
 [the contribution guide]: ./CONTRIBUTING.md "Contribute to the Elypia Emotes"
 [Creative Commons]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 
