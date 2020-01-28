@@ -10,7 +10,7 @@ All documents are shared in markdown and text form, it's recommended to
 present then in whatever format is most appropriate for your
 requirements.
 
-## Copyright Transfer Agreement
+## Open Copyright Transfer Agreement 1.0
 The copyright transfer agreement as written in the repository allows
 rightsholders of copyrighted material to transfer that copyright to
 another entity (organization or person). 
