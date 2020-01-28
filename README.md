@@ -7,8 +7,10 @@ open alternatives available that fit our requirements.
 
 # Documents
 All documents are shared in markdown and text form, it's recommended to
-present then in whatever format is most appropriate for your
+present them in a format that is most appropriate for your
 requirements.
+
+Examples may be found in [here], where we've written our own documents.
 
 ## Open Copyright Transfer Agreement 1.0
 The copyright transfer agreement as written in the repository allows
@@ -27,17 +29,17 @@ reference it for future work.
 ## Creative Commons
 This project is under [Creative Commons] which means anyone is allowed
 to use, modify, and redistribute any of the documents in this project, 
-even commercially.
+(the `src` directory) even commercially.
 
 **You do not have to attribute or declare the license internally or to
 parties signing your document; only if you modify and republish the
-documents for the community to use.**
+documents for public use.**
 
 [matrix]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
 [registered company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
-[the contribution guide]: ./CONTRIBUTING.md "Contribute to the Elypia Emotes"
+[here]: ./examples "Example Documents using Open Agreements"
 [Creative Commons]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 
 [matrix-members]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"
