@@ -40,11 +40,13 @@ and use commercially for any purpose.
 b) The Licensee will have the right to sublicense the Licensed Material
 to other entities only on a non-commercial basis. 
 
-c) When the Licensed Material is shared or redistributed, including any
-modified form, the Licensee is under no obligation to attribute the
+c) When the Licensed Material is shared or redistributed, including in
+any modified form, the Licensee is under no obligation to attribute the
 Licensor(s) unless:
 
-* i) the Licensed Material is the subject of the material.
+* i) the Licensed Material is the subject, and there is a dedicated or
+open field directly associated with where it was shared that provides
+the reasonable means to provide attribution.
 
 ## 4. Payment and Royalties
 a) Unless otherwise separately undertaken between the Licensee and

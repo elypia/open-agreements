@@ -45,7 +45,9 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
        modified form, the Licensee is under no obligation to attribute the
        Licensor(s) unless:
 
-        i) the Licensed Material is the subject of the material.
+        i) the Licensed Material is the subject, and there is a dedicated or
+        open field directly associated with where it was shared that provides
+        the reasonable means to provide attribution.
 
 4 - Payment and Royalties.
 
