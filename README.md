@@ -42,7 +42,7 @@ This means you can use, modify, and redistribute the work commercially,
 however may not sub-license the work to others or to the public 
 for a profit. (You can omit this clause if it doesn't suit you.)
 
-# Creative Commons [![creative-commons-badge]][creative-commons]
+# Creative Commons [![creative-commons-badge]][Creative Commons]
 This project is under [Creative Commons] which means anyone is allowed
 to use, modify, and redistribute any of the documents in this project, 
 (the `src` directory) even commercially.
@@ -53,7 +53,6 @@ documents for public use.**
 
 [matrix]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
 [discord]: https://discord.gg/hprGMaM "Discord Invite"
-[creative-commons]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
 [registered company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
 [here]: ./examples "Example Documents using Open Agreements"
