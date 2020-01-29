@@ -42,7 +42,7 @@ This means you can use, modify, and redistribute the work commercially,
 however may not sub-license the work to others or to the public 
 for a profit. (You can omit this clause if it doesn't suit you.)
 
-## Creative Commons
+# Creative Commons
 This project is under [Creative Commons] which means anyone is allowed
 to use, modify, and redistribute any of the documents in this project, 
 (the `src` directory) even commercially.
