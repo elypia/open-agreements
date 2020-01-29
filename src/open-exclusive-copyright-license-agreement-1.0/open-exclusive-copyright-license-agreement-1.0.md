@@ -3,7 +3,7 @@ This document contains the terms and conditions for the granting of
 rights from the Licensor(s), exclusively to the Licensee. 
 
 THIS IS AN EXCLUSIVE LICENSE; THIS SHOULD ONLY BE USED IN TRANSACTIONS
-WHERE THE RIGHTS SPECIFIED ARE TO BE GRANTED OTHER LICENSEES.
+WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
 
 ## 1. Definitions
 "Intellectual Property" shall mean any kind of intellectual property;
