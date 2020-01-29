@@ -23,8 +23,12 @@ to the Intellectual Property and Licensed Material from the
 Licensee(s).
 
 ## 2. Copyright
-The Licensor(s) shall retain and reserve to its entirety all copyright
-to the Intellectual Property described in this agreement. 
+a) The Licensor(s) shall retain and reserve to its entirety all
+copyright to the Intellectual Property described in this agreement. 
+
+b) The Licensor(s) shall retain and reserve all rights granted to the
+Licensee, except the right to license or sub-license the
+Licensed Material to other entities.
 
 ## 3. Grant of License
 The Licensor(s) entitled below ("Licensor(s)") are authorized to and
@@ -67,8 +71,8 @@ agreement.
 ### Licensed Material
 * [List of Licensed Material]
 
-Please indicate which party populated the Licensed Material
-(“Licensed Material”) area:
+Please indicate which party (only one) populated the
+Licensed Material (“Licensed Material”) area:
 
 * [ ] Licensee  
 * [ ] Licensor(s)

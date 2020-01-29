@@ -36,8 +36,8 @@ Intellectual Property for future work.
 ### Intellectual Property
 * [List of Intellectual Property]
 
-Please indicate which party populated the Intellectual Property
-(“Intellectual Property”) area:
+Please indicate which party (only one) populated the
+Intellectual Property (“Intellectual Property”) area:
 
 * [ ] Beneficiary  
 * [ ] Author(s)
