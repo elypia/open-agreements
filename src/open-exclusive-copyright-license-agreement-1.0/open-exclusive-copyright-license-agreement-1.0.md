@@ -40,15 +40,21 @@ and use commercially for any purpose.
 b) The Licensee will have the right to sublicense the Licensed Material
 to other entities only on a non-commercial basis. 
 
+c) When the Licensed Material is shared or redistributed, including any
+modified form, the Licensee is under no obligation to attribute the
+Licensor(s) unless:
+
+* i) the Licensed Material is the subject of the material.
+
 ## 4. Payment and Royalties
 a) Unless otherwise separately undertaken between the Licensee and
-Licensor(s), the Licensed Material is offered to the Licensor with no
+Licensor(s), the Licensed Material is offered to the Licensee with no
 form of payment implied or to be taken as a result of this agreement.
 
 b) The Licensed Material will not have any royalties or other costs of
-usage associated with it under this agreement. To the extent possible,
-Licensor(s) waive all rights to collect royalties from the Licensee
-regarding the Licensed Material entitled below ("“Licensed Material”").
+usage associated with it, and to the extent possible, the Licensor(s)
+waive all rights to collect royalties from the Licensee regarding the
+Licensed Material under this agreement.
 
 ## 5. Termination 
 This agreement stands perpetually and indefinitely unless the Licensee
@@ -62,15 +68,15 @@ agreement.
 Please indicate which party populated the Licensed Material
 (“Licensed Material”) area:
 
-[ ] Licensee  
-[ ] Licensor(s)
+* [ ] Licensee  
+* [ ] Licensor(s)
 
 ### Licensee
 If the beneficiary is an organization, the organization name (O) should
 be specified, and the beneficiary name and signature shall refer to who 
 has the right to, and is acting on behalf of the organization.  
 The beneficiary should add their name (N), position (P) if they are
-acting on behalf of an organization, and signature (S)
+acting on behalf of an organization, and signature (S).
 
 O: [Organization Name]  
 N: [Name]  

@@ -10,7 +10,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
     "Intellectual Property" shall mean any kind of intellectual property;
     this could be in any form including but not limited to both physical
     and digital inventions, illustrations, designs, documents, or other
-    binary files.  
+    binary files.
 
     "Licensed Material" shall mean any Intellectual Property intended by
     the Licensor(s) to grant rights from under this exclusive copyright
@@ -25,7 +25,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
 
 2 - Copyright.
     The Licensor(s) shall retain and reserve to its entirety all copyright
-    to the Intellectual Property described in this agreement. 
+    to the Intellectual Property described in this agreement.
 
 3 - Grant of License.
     The Licensor(s) entitled below ("Licensor(s)") are authorized to and
@@ -41,29 +41,36 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
     b) The Licensee will have the right to sublicense the Licensed Material
        to other entities only on a non-commercial basis. 
 
+    c) When the Licensed Material is shared or redistributed, including any
+       modified form, the Licensee is under no obligation to attribute the
+       Licensor(s) unless:
+
+        i) the Licensed Material is the subject of the material.
+
 4 - Payment and Royalties.
+
     a) Unless otherwise separately undertaken between the Licensee and
-       Licensor(s), the Licensed Material is offered to the Licensor with no
+       Licensor(s), the Licensed Material is offered to the Licensee with no
        form of payment implied or to be taken as a result of this agreement.
 
     b) The Licensed Material will not have any royalties or other costs of
-       usage associated with it under this agreement. To the extent possible,
-       Licensor(s) waive all rights to collect royalties from the Licensee
-       regarding the Licensed Material entitled below ("“Licensed Material”").
+       usage associated with it, and to the extent possible, the Licensor(s)
+       waive all rights to collect royalties from the Licensee regarding the
+       Licensed Material under this agreement.
 
 5 - Termination. 
-    This agreement stands perpetually and indefinitely unless the
-    Licensee and all Licensor(s) mutually agree to reverse the effects
-    of this agreement.
+    This agreement stands perpetually and indefinitely unless the Licensee
+    and all Licensor(s) mutually agree to reverse the effects of this
+    agreement.
 
-=======================================================================
+===============================================================================
 
 Signing
 
-=======================================================================
+===============================================================================
 
 Licensed Material
------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [List of Licensed Material]
 
 Please indicate which party populated the Licensed Material
@@ -72,21 +79,21 @@ Please indicate which party populated the Licensed Material
 [ ] Licensee  
 [ ] Licensor(s)
 
-Beneficiary
------------------------------------------------------------------------
+Licensee
+-------------------------------------------------------------------------------
 If the beneficiary is an organization, the organization name (O) should
 be specified, and the beneficiary name and signature shall refer to who
 has the right to, and is acting on behalf of the organization.
 The beneficiary should add their name (N), position (P) if they are
-acting on behalf of an organization. and signature (S)
+acting on behalf of an organization. and signature (S).
 
 O: [Organization Name]
 N: [Name]
 P: [Position]
 S: [Signature]
 
-Authors
------------------------------------------------------------------------
+Licensor(s)
+-------------------------------------------------------------------------------
 If any author(s) are organizations, the organization name (O) should
 be specified, and the author name, email, and signature shall refer to
 who has the right to, and is acting on behalf of the organization.

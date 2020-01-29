@@ -4,43 +4,43 @@ This document contains the terms and conditions for the transfer of
 copyright from rightsholders of intellectual property to another party.
 
 1 - Definitions.
-    "Intellectual Property" shall mean any kind of intellectual
-    property; this could be in any form including but not limited to
-    both physical and digital inventions, illustrations, designs,
-    documents, or other binary files.
+    "Intellectual Property" shall mean any kind of intellectual property;
+    this could be in any form including but not limited to both physical
+    and digital inventions, illustrations, designs, documents, or other
+    binary files.
 
-    "Author(s)" shall mean all present copyright holders prior to
-    signing this document transferring copyright to another party.
+    "Author(s)" shall mean all present copyright holders prior to signing
+    this document transferring copyright to another party.
 
     "Beneficiary" shall mean the legal entity that will receive the
-    copyright of the intellectual property held by the original
-    copyright holders.
+    copyright of the intellectual property held by the original copyright
+    holders.
 
 2 - Copyright Transfer.
     I hereby grant and assign the entire copyright in the
     Intellectual Property entitled below ("Intellectual Property"),
-    authorized by the Authors entitled below ("Authors") to the
-    Beneficiary entitled below ("Beneficiary").
+    authorized by the Authors entitled below ("Authors") to the Beneficiary
+    entitled below ("Beneficiary").
 
     a) The copyright consists of all rights protected by the worldwide
-       copyright laws, in all languages and forms of communication,
-       including the right to publish, modify, redistribute, republish
-       in another format or medium, even commercially.
+       copyright laws, in all languages and forms of communication, including
+       the right to publish, modify, redistribute, republish in another format
+       or medium, even commercially.
 
     b) In return, the Beneficiary will grant the non-exclusive right of
-       republications of the Intellectual Property to the Authors
-       including the right to publish the Intellectual Property to
-       their own website(s) and social media, and reference or use
-       parts of the Intellectual Property for future work.
+       republications of the Intellectual Property to the Authors including
+       the right to publish the Intellectual Property to their own website(s)
+       and social media, and reference or use parts of the
+       Intellectual Property for future work.
 
-=======================================================================
+===============================================================================
 
 Signing
 
-=======================================================================
+===============================================================================
 
 Intellectual Property
------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [List of Intellectual Property]
 
 Please indicate which party populated the Intellectual Property
@@ -50,12 +50,12 @@ Please indicate which party populated the Intellectual Property
 [ ] Author(s)
 
 Beneficiary
------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 If the beneficiary is an organization, the organization name (O) should
 be specified, and the beneficiary name and signature shall refer to who
 has the right to, and is acting on behalf of the organization.
 The beneficiary should add their name (N), position (P) if they are
-acting on behalf of an organization. and signature (S)
+acting on behalf of an organization, and signature (S).
 
 O: [Organization Name]
 N: [Name]
@@ -63,15 +63,15 @@ P: [Position]
 S: [Signature]
 
 Authors
------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 If any author(s) are organizations, the organization name (O) should
 be specified, and the author name, email, and signature shall refer to
 who has the right to, and is acting on behalf of the organization.
 Each author should add their name (N), email address (E), and
-signature (S).  
+signature (S).
 Append entries as required by the number of Authors.
 
-O: [Organization Name]  
+O: [Organization Name]
 N: [Name]
 E: [Email]
 S: [Signature]
