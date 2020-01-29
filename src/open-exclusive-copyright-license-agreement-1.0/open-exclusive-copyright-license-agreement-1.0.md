@@ -46,7 +46,7 @@ Licensor(s) unless:
 
 * i) the Licensed Material is the subject, and there is a dedicated or
 open field directly associated with where it was shared that provides
-the reasonable means to provide attribution.
+the reasonable means attribute.
 
 ## 4. Payment and Royalties
 a) Unless otherwise separately undertaken between the Licensee and

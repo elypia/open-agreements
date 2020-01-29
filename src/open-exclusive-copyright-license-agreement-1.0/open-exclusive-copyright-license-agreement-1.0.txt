@@ -47,7 +47,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
 
         i) the Licensed Material is the subject, and there is a dedicated or
         open field directly associated with where it was shared that provides
-        the reasonable means to provide attribution.
+        the reasonable means attribute.
 
 4 - Payment and Royalties.
 
