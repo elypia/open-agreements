@@ -5,26 +5,36 @@ possible, we like to use openly available licenses or agreements that
 already exist but, sometimes we make them ourselves if we don't see
 open alternatives available that fit our requirements.
 
+We hoping as a community we'll be able to create very simple and
+flexibly written contracts, that anyone will have the freedom to use,
+modify, and redistribute however they want.  
+
 # Documents
 All documents are shared in markdown and text form, it's recommended to
 present them in a format that is most appropriate for your
 requirements.
 
-Examples may be found in [here], where we've written our own documents.
+You'll most likely find you'll have to alter or exclude text clauses in
+documents to fit your requirements. This repository tries it's best to
+seperate clauses into sections and sub-sections so it's easy to pick
+out and remove to respective statement that may be adverse to your
+needs.
 
-## Open Copyright Transfer Agreement 1.0
-The copyright transfer agreement as written in the repository allows
+Examples may be found in [here], where we've made our own documents.
+
+## Open Copyright Transfer Agreement
+The [copyright transfer agreement] as written in the repository allows
 rightsholders of copyrighted material to transfer that copyright to
 another entity (organization or person). 
 
-There are two sections:
+## Open Exclusive Copyright License Agreement
+The exclusive copyright license agreement as written in the repository
+grants all rights from a rightsholder of copyrighted material to
+another entity, except the right to commercially sub-license the work.
 
-2a) Transfers all copyright from the rightsholders to the beneficary.
-
-2b) Now that the beneficary has copyright of the material, grant back
-the rights to share the work on there website or social media or
-reference it for future work.
-> Depending on your requirements, you may want to omit or reword 2b.
+This means you can use, modify, and redistribute the work comercially,
+however may not sub-license the work to others or to the public 
+for a profit. (You can omit this clause if it doesn't suit you.)
 
 ## Creative Commons
 This project is under [Creative Commons] which means anyone is allowed
@@ -40,6 +50,7 @@ documents for public use.**
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
 [registered company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
 [here]: ./examples "Example Documents using Open Agreements"
+[copyright transfer agreement]: https://en.wikipedia.org/wiki/Copyright_transfer_agreement "Copyright Transfer Agreement on Wikipedia"
 [Creative Commons]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 
 [matrix-members]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"

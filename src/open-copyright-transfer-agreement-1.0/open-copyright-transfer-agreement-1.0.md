@@ -47,7 +47,7 @@ If the beneficiary is an organization, the organization name (O) should
 be specified, and the beneficiary name and signature shall refer to who 
 has the right to, and is acting on behalf of the organization.  
 The beneficiary should add their name (N), position (P) if they are
-acting on behalf of an organization. and signature (S)
+acting on behalf of an organization, and signature (S)
 
 O: [Organization Name]  
 N: [Name]  
