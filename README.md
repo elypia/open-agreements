@@ -5,18 +5,24 @@ possible, we like to use openly available licenses or agreements that
 already exist but, sometimes we make them ourselves if we don't see
 open alternatives available that fit our requirements.
 
-We hoping as a community we'll be able to create very simple and
+We're hoping as a community we'll be able to create very simple and
 flexibly written contracts, that anyone will have the freedom to use,
 modify, and redistribute however they want.  
 
+# Disclaimer
+Elypia is not a law firm, we do not specialize in legal documents or
+writing binding contracts between parties. These documents should be
+thoroughly checked before use, and preferably modified to suit your
+requirements.
+
 # Documents
-All documents are shared in markdown and text form, it's recommended to
+All documents are shared in markdown and text form, its recommended to
 present them in a format that is most appropriate for your
 requirements.
 
 You'll most likely find you'll have to alter or exclude text clauses in
 documents to fit your requirements. This repository tries it's best to
-seperate clauses into sections and sub-sections so it's easy to pick
+separate clauses into sections and sub-sections so it's easy to pick
 out and remove to respective statement that may be adverse to your
 needs.
 
@@ -32,7 +38,7 @@ The exclusive copyright license agreement as written in the repository
 grants all rights from a rightsholder of copyrighted material to
 another entity, except the right to commercially sub-license the work.
 
-This means you can use, modify, and redistribute the work comercially,
+This means you can use, modify, and redistribute the work commercially,
 however may not sub-license the work to others or to the public 
 for a profit. (You can omit this clause if it doesn't suit you.)
 
