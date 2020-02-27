@@ -1,4 +1,4 @@
-# Open Agreements [![matrix-members]][matrix] [![discord-members]][discord] [![donate-shield]][elypia-donate]
+# Open Agreements [![Matrix]][matrix-community] [![Discord]][discord-guild] [![Donate]][elypia-donate]
 As Elypia CIC is a [registered company], we need contracts or
 agreements documented on occasion to avoid legal challenges. Where
 possible, we like to use openly available licenses or agreements that
@@ -42,7 +42,7 @@ This means you can use, modify, and redistribute the work commercially,
 however may not sub-license the work to others or to the public 
 for a profit. (You can omit this clause if it doesn't suit you.)
 
-# Creative Commons [![creative-commons-badge]][Creative Commons]
+# Creative Commons [![CC]][Creative Commons]
 This project is under [Creative Commons] which means anyone is allowed
 to use, modify, and redistribute any of the documents in this project, 
 (the `src` directory) even commercially.
@@ -51,15 +51,15 @@ to use, modify, and redistribute any of the documents in this project,
 parties signing your document; only if you modify and republish the
 documents for public use.**
 
-[matrix]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
-[discord]: https://discord.gg/hprGMaM "Discord Invite"
+[matrix-community]: https://matrix.to/#/+elypia:matrix.org "Matrix Invite"
+[discord-guild]: https://discord.gg/hprGMaM "Discord Invite"
 [elypia-donate]: https://elypia.org/donate "Donate to Elypia"
 [registered company]: https://beta.companieshouse.gov.uk/company/12203025 "Elypia CIC on Companies House"
 [here]: ./examples "Example Documents using Open Agreements"
 [copyright transfer agreement]: https://en.wikipedia.org/wiki/Copyright_transfer_agreement "Copyright Transfer Agreement on Wikipedia"
 [Creative Commons]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 
-[matrix-members]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"
-[discord-members]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
-[creative-commons-badge]: https://licensebuttons.net/l/by/4.0/80x15.png "Creative Commons"
-[donate-shield]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
+[Matrix]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"
+[Discord]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
+[CC]: https://licensebuttons.net/l/by/4.0/80x15.png "Creative Commons"
+[Donate]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
