@@ -8,7 +8,7 @@ this could be in any form including but not limited to both physical
 and digital inventions, illustrations, designs, documents, or other
 binary files.
 
-"Author(s)" shall mean all present copyright holders prior to signing
+"Author(s)" shall mean all present copyright holders before signing
 this document transferring copyright to another party.
 
 "Beneficiary" shall mean the legal entity that will receive the
@@ -28,7 +28,7 @@ or medium, even commercially.
 
 b) In return, the Beneficiary will grant the non-exclusive right of
 republications of the Intellectual Property to the Authors including
-the right to publish the Intellectual Property to their own website(s)
+the right to publish the Intellectual Property to their website(s)
 and social media, and reference or use parts of the
 Intellectual Property for future work.
 
