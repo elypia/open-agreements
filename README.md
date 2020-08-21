@@ -1,4 +1,9 @@
-# Open Agreements [![Matrix]][matrix-community] [![Discord]][discord-guild] [![Donate]][elypia-donate]
+<div align="center">
+
+# Open Agreements
+[![Matrix]][matrix-community] [![Discord]][discord-guild] [![Donate]][elypia-donate]
+</div>
+
 As Elypia CIC is a [registered company], we need contracts or
 agreements documented on occasion to avoid legal challenges. Where
 possible, we like to use openly available licenses or agreements that
@@ -59,7 +64,7 @@ documents for public use.**
 [copyright transfer agreement]: https://en.wikipedia.org/wiki/Copyright_transfer_agreement "Copyright Transfer Agreement on Wikipedia"
 [Creative Commons]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons"
 
-[Matrix]: https://img.shields.io/matrix/elypia-general:matrix.org?logo=matrix "Matrix Shield"
-[Discord]: https://discordapp.com/api/guilds/184657525990359041/widget.png "Discord Shield"
+[Matrix]: https://img.shields.io/matrix/elypia:matrix.org?logo=matrix "Matrix Shield"
+[Discord]: https://discord.com/api/guilds/184657525990359041/widget.png "Discord Shield"
 [CC]: https://licensebuttons.net/l/by/4.0/80x15.png "Creative Commons"
-[Donate]: https://img.shields.io/badge/Elypia-Donate-blueviolet "Donate Shield"
+[Donate]: https://img.shields.io/badge/elypia-donate-blueviolet "Donate Shield"
