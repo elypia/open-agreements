@@ -20,7 +20,7 @@ Intellectual Property and Licensed Material.
 
 "Licensee" shall mean the legal entity that will be granted the rights
 to the Intellectual Property and Licensed Material from the
-Licensee(s).
+Licensor(s).
 
 ## 2. Copyright
 a) The Licensor(s) shall retain and reserve to its entirety all
