@@ -1,7 +1,7 @@
 Open Exclusive Copyright License Agreement 1.0 (OECLA 1.0)
 
 This document contains the terms and conditions for the granting of
-rights from the Licensor(s), exclusively to the Licensee. 
+rights from the Licensor(s), exclusively to the Licensee.
 
 THIS IS AN EXCLUSIVE LICENSE; THIS SHOULD ONLY BE USED IN TRANSACTIONS
 WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
@@ -21,7 +21,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
 
     "Licensee" shall mean the legal entity that will be granted the rights
     to the Intellectual Property and Licensed Material from the
-    Licensee(s).
+    Licensor(s).
 
 2 - Copyright.
 
@@ -44,7 +44,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
        and use commercially for any purpose.
 
     b) The Licensee will have the right to sublicense the Licensed Material
-       to other entities only on a non-commercial basis. 
+       to other entities only on a non-commercial basis.
 
     c) When the Licensed Material is shared or redistributed, including any
        modified form, the Licensee is under no obligation to attribute the
@@ -65,7 +65,7 @@ WHERE THE RIGHTS SPECIFIED ARE NOT TO BE GRANTED TO OTHER LICENSEES.
        waive all rights to collect royalties from the Licensee regarding the
        Licensed Material under this agreement.
 
-5 - Termination. 
+5 - Termination.
     This agreement stands perpetually and indefinitely unless the Licensee
     and all Licensor(s) mutually agree to reverse the effects of this
     agreement.
@@ -83,7 +83,7 @@ Licensed Material
 Please indicate which party (only one) populated the
 Licensed Material ("Licensed Material") area:
 
-[ ] Licensee  
+[ ] Licensee
 [ ] Licensor(s)
 
 Licensee
@@ -105,10 +105,10 @@ If any author(s) are organizations, the organization name (O) should
 be specified, and the author name, email, and signature shall refer to
 who has the right to, and is acting on behalf of the organization.
 Each author should add their name (N), email address (E), and
-signature (S).  
+signature (S).
 Append entries as required by the number of Authors.
 
-O: [Organization Name]  
+O: [Organization Name]
 N: [Name]
 E: [Email]
 S: [Signature]
